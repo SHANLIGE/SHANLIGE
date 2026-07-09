@@ -22,7 +22,6 @@ peripherals and making software work reliably in environments where everything m
 <p align="left">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHANLIGE&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHANLIGE&layout=compact&theme=tokyonight" />
 
 </p>
 ## Technologies
