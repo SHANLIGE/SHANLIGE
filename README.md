@@ -44,7 +44,8 @@ Fun Fact:
 - 🛠 I enjoy debugging hardware.
 - 🐈 Cats always make coding better.
 
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHANLIGE&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHANLIGE&layout=compact&theme=tokyonight" />
 
 ## Technologies
 
@@ -101,6 +102,5 @@ Fun Fact:
 </p>
 
 
-## GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHANLIGE&show_icons=true&theme=tokyonight" />
+
