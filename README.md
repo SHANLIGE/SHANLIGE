@@ -15,7 +15,9 @@ Building software that bridges hardware and user experience.
 ```yaml
 I'm a Linux Developer from Colombia who enjoys building software that interacts with real hardware.
 
-Most of my work revolves around embedded Linux, ARM devices, desktop applications and system customization. I spend a lot of time debugging drivers, configuring operating systems, flashing firmware, integrating peripherals and making software work reliably in environments where everything matters.
+Most of my work revolves around embedded Linux, ARM devices, desktop applications and system customization.
+I spend a lot of time debugging drivers, configuring operating systems, flashing firmware, integrating
+peripherals and making software work reliably in environments where everything matters.
 ```
 <p align="left">
 
