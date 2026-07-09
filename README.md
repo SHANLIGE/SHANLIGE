@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Linux Developer • Embedded Linux • UI/UX Designer
+Linux Developer • Embedded Linux 
 </h3>
 
 <p align="center">
