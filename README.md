@@ -9,7 +9,8 @@ Linux Developer • Embedded Linux • UI/UX Designer
 <p align="center">
 Building software that bridges hardware and user experience.
 </p>
-## 🐈 About Me
+
+##  🐈 About Me
 
 ```yaml
 Name: Nat
@@ -88,3 +89,10 @@ Fun Fact:
 
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,qt,cpp,bash,linux,ubuntu,debian,arch,sqlite,mysql,postgres,git,docker,nginx,vscode&perline=10" />
+</p>
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pyside6,qtwebengine,xfce,systemd,x11,opencv,arm64,aarch64,usb&titles=true" />
+</p>
