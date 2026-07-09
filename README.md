@@ -34,19 +34,12 @@ Currently Learning:
 Fun Fact:
   "I enjoy debugging hardware almost as much as writing software."
 ```
-
-
-## Fun Facts 😺
-
-- 🐧 Linux is my daily driver.
-- 🥋 I practice Kendo.
-- 🎨 I have a background in UI/UX Design.
-- 🛠 I enjoy debugging hardware.
-- 🐈 Cats always make coding better.
+<p align="left">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHANLIGE&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHANLIGE&layout=compact&theme=tokyonight" />
 
+</p>
 ## Technologies
 
 <p align="left">
@@ -71,10 +64,6 @@ Fun Fact:
 
 <img src="https://img.shields.io/badge/QtWebEngine-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Udev-555555?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/X11-444444?style=for-the-badge"/>
@@ -85,22 +74,17 @@ Fun Fact:
 
 <img src="https://img.shields.io/badge/AArch64-0091BD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/USB-555555?style=for-the-badge&logo=usb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Serial-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ESC%2FPOS-2E8B57?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Barcode%20Scanner-0088CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Touchscreen-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
 </p>
 
 
+## Fun Facts 😺
+
+- 🐧 Linux is my daily driver.
+- 🥋 I practice Kendo.
+- 🎨 I have a background in UI/UX Design.
+- 🛠 I enjoy debugging hardware.
+- 🐈 Cats always make coding better.
 
 
