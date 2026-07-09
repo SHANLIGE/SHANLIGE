@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Nat 🐱<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  Hi, I'm Nat 🐱 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
 <h3 align="center">
@@ -10,7 +10,7 @@ Linux Developer • Embedded Linux • UI/UX Designer
 Building software that bridges hardware and user experience.
 </p>
 
-##  🐈 About Me
+## About Me 🐈
 
 ```yaml
 Name: Nat
@@ -36,7 +36,7 @@ Fun Fact:
 ```
 
 
-## 😺 Fun Facts
+## Fun Facts 😺
 
 - 🐧 Linux is my daily driver.
 - 🥋 I practice Kendo.
@@ -46,7 +46,7 @@ Fun Fact:
 
 
 
-## 🛠️ Technologies
+## Technologies
 
 <p align="left">
 
@@ -101,26 +101,6 @@ Fun Fact:
 </p>
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SHANLIGE&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANLIGE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SHANLIGE/SHANLIGE/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
-<p align="center">
-
-<i>"Code is temporary, good design is timeless."</i>
-
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHANLIGE&show_icons=true&theme=tokyonight" />
