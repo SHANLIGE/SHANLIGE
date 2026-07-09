@@ -1,50 +1,90 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 align="center">
+  Hi, I'm Nat 🐱<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
 
-###
+<h3 align="center">
+Linux Developer • Embedded Linux • UI/UX Designer
+</h3>
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p align="center">
+Building software that bridges hardware and user experience.
+</p>
+## 🐈 About Me
 
-###
+```yaml
+Name: Nat
+Located in: Colombia 🇨🇴
 
-<h2 data-importer="text" align="left">About me</h2>
+Current Role:
+  Linux Developer
 
-###
+Focus:
+  - Embedded Linux
+  - Desktop Applications
+  - ARM Devices
+  - Hardware Integration
+  - UI/UX
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+Currently Learning:
+  - Linux Kernel
+  - Device Drivers
+  - Embedded Systems
 
-###
+Fun Fact:
+  "I enjoy debugging hardware almost as much as writing software."
+```
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Shanlige/Shanlige/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Shanlige/Shanlige/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Technologies
 
-###
+<p align="left">
 
-<h2 data-importer="text" align="left">I code with</h2>
+<!-- Programming Languages -->
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash,cpp,html,css" />
 
-###
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,qt,opencv" />
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+<!-- Linux -->
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch" />
 
-###
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Shanlige/Shanlige/snake-output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+<p align="left">
+
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/QtWebEngine-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Udev-555555?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/X11-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plymouth-666666?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ARM64-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AArch64-0091BD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/USB-555555?style=for-the-badge&logo=usb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Serial-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESC%2FPOS-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Barcode%20Scanner-0088CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Touchscreen-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
